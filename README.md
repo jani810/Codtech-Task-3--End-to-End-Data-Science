@@ -86,3 +86,4 @@ This project is a complete demonstration of deploying a machine learning model u
 
 It was built as part of my 4-week internship at CODTECH IT SOLUTIONS, under the guidance of Mentor Neela Santosh, using the classic Iris dataset.
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/72d1b2d3-f92d-49b1-9170-e1bcad3e9d05)
